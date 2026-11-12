@@ -1,0 +1,10 @@
+# Tested with Python 3.13.5.
+# For a CUDA build, install the PyTorch wheel matching your CUDA version first,
+# then install torch-geometric and torch-scatter from the PyG wheel index.
+torch==2.7.1
+torch-geometric==2.6.1
+torch-scatter==2.1.2
+numpy==2.3.1
+pandas==2.3.0
+matplotlib==3.10.3
+openpyxl==3.1.5

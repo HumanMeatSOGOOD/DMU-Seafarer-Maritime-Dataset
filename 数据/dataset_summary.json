@@ -1,0 +1,8 @@
+{
+  "node_types": 20,
+  "edge_types": 19,
+  "nodes": 23784,
+  "edges": 104571,
+  "node_features": "none (learnable type-specific embeddings are initialized in code)",
+  "edge_direction": "part -> whole"
+}

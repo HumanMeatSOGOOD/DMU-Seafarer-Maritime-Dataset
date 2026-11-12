@@ -1,0 +1,3226 @@
+[
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 401,
+        "id": "ps136",
+        "name": "ps136"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      }
+    ],
+    "num_valid_crew": 13
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 777,
+        "id": "ps1699",
+        "name": "ps1699"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 32,
+        "id": "pg39",
+        "name": "pg39"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 375,
+        "id": "oe439",
+        "name": "oe439"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 607,
+        "id": "ps1545",
+        "name": "ps1545"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 2,
+        "id": "pg11",
+        "name": "pg11"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 103,
+        "id": "oe193",
+        "name": "oe193"
+      }
+    ],
+    "num_valid_crew": 30
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 148,
+        "id": "ps1131",
+        "name": "ps1131"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "college",
+        "idx": 1,
+        "id": "col10",
+        "name": "col10"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 34,
+        "id": "pg40",
+        "name": "pg40"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 295,
+        "id": "oe367",
+        "name": "oe367"
+      }
+    ],
+    "num_valid_crew": 7
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 409,
+        "id": "ps1367",
+        "name": "ps1367"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 237,
+        "id": "oe313",
+        "name": "oe313"
+      }
+    ],
+    "num_valid_crew": 23
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 11,
+        "id": "pos7",
+        "name": "二管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 303,
+        "id": "ps1271",
+        "name": "ps1271"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 0,
+        "id": "pg1",
+        "name": "pg1"
+      },
+      {
+        "type": "college",
+        "idx": 1,
+        "id": "col10",
+        "name": "col10"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 276,
+        "id": "oe35",
+        "name": "oe35"
+      },
+      {
+        "type": "region",
+        "idx": 10,
+        "id": "re19",
+        "name": "re19"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 184,
+        "id": "ps1164",
+        "name": "ps1164"
+      },
+      {
+        "type": "engine",
+        "idx": 210,
+        "id": "en291",
+        "name": "en291"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 11,
+        "id": "pg2",
+        "name": "pg2"
+      }
+    ],
+    "num_valid_crew": 23
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 431,
+        "id": "ps1387",
+        "name": "ps1387"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 25,
+        "id": "pg32",
+        "name": "pg32"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 361,
+        "id": "oe426",
+        "name": "oe426"
+      }
+    ],
+    "num_valid_crew": 16
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1869,
+        "id": "ps979",
+        "name": "ps979"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 291,
+        "id": "oe363",
+        "name": "oe363"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 292,
+        "id": "ps1261",
+        "name": "ps1261"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 140,
+        "id": "oe226",
+        "name": "oe226"
+      },
+      {
+        "type": "college",
+        "idx": 5,
+        "id": "col2",
+        "name": "col2"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 961,
+        "id": "ps1864",
+        "name": "ps1864"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 6,
+        "id": "t4",
+        "name": "t4"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 210,
+        "id": "oe29",
+        "name": "oe29"
+      }
+    ],
+    "num_valid_crew": 9
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 228,
+        "id": "ps1203",
+        "name": "ps1203"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 20,
+        "id": "pg28",
+        "name": "pg28"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 382,
+        "id": "oe445",
+        "name": "oe445"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 49,
+        "id": "pg54",
+        "name": "pg54"
+      },
+      {
+        "type": "region",
+        "idx": 7,
+        "id": "re16",
+        "name": "re16"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 376,
+        "id": "ps1337",
+        "name": "ps1337"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 27,
+        "id": "pg34",
+        "name": "pg34"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "voyage",
+        "idx": 1667,
+        "id": "ps797",
+        "name": "ps797"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 48,
+        "id": "pg53",
+        "name": "pg53"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 196,
+        "id": "oe277",
+        "name": "oe277"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 1801,
+        "id": "ps917",
+        "name": "ps917"
+      },
+      {
+        "type": "engine",
+        "idx": 115,
+        "id": "en204",
+        "name": "en204"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 4,
+        "id": "pg13",
+        "name": "pg13"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 431,
+        "id": "oe72",
+        "name": "oe72"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 241,
+        "id": "oe317",
+        "name": "oe317"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 37,
+        "id": "pg43",
+        "name": "pg43"
+      },
+      {
+        "type": "college",
+        "idx": 11,
+        "id": "col8",
+        "name": "col8"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 392,
+        "id": "ps1351",
+        "name": "ps1351"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 11,
+        "id": "t9",
+        "name": "t9"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 20,
+        "id": "oelt28",
+        "name": "oelt28"
+      },
+      {
+        "type": "region",
+        "idx": 12,
+        "id": "re20",
+        "name": "re20"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1499,
+        "id": "ps645",
+        "name": "ps645"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 2,
+        "id": "tt5",
+        "name": "tt5"
+      },
+      {
+        "type": "region",
+        "idx": 27,
+        "id": "re5",
+        "name": "re5"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 258,
+        "id": "ps1230",
+        "name": "ps1230"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 39,
+        "id": "pg45",
+        "name": "pg45"
+      },
+      {
+        "type": "region",
+        "idx": 10,
+        "id": "re19",
+        "name": "re19"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 32,
+        "id": "pg39",
+        "name": "pg39"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 136,
+        "id": "oe222",
+        "name": "oe222"
+      }
+    ],
+    "num_valid_crew": 23
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "voyage",
+        "idx": 1299,
+        "id": "ps465",
+        "name": "ps465"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 14,
+        "id": "oelt22",
+        "name": "oelt22"
+      }
+    ],
+    "num_valid_crew": 18
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 6,
+        "id": "t4",
+        "name": "t4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 50,
+        "id": "pg55",
+        "name": "pg55"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 154,
+        "id": "oe239",
+        "name": "oe239"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 950,
+        "id": "ps1854",
+        "name": "ps1854"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "region",
+        "idx": 25,
+        "id": "re32",
+        "name": "re32"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1432,
+        "id": "ps585",
+        "name": "ps585"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "college",
+        "idx": 11,
+        "id": "col8",
+        "name": "col8"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 20,
+        "id": "pg28",
+        "name": "pg28"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 67,
+        "id": "oe160",
+        "name": "oe160"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 503,
+        "id": "ps1451",
+        "name": "ps1451"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 40,
+        "id": "pg46",
+        "name": "pg46"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 42,
+        "id": "oe138",
+        "name": "oe138"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 1284,
+        "id": "ps451",
+        "name": "ps451"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 15,
+        "id": "pg23",
+        "name": "pg23"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 192,
+        "id": "oe273",
+        "name": "oe273"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 26,
+        "id": "pg33",
+        "name": "pg33"
+      },
+      {
+        "type": "region",
+        "idx": 4,
+        "id": "re13",
+        "name": "re13"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 22,
+        "id": "ps1018",
+        "name": "ps1018"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 112,
+        "id": "oe200",
+        "name": "oe200"
+      },
+      {
+        "type": "college",
+        "idx": 2,
+        "id": "col11",
+        "name": "col11"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 58,
+        "id": "ps1050",
+        "name": "ps1050"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 4,
+        "id": "pg13",
+        "name": "pg13"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 164,
+        "id": "oe248",
+        "name": "oe248"
+      }
+    ],
+    "num_valid_crew": 9
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 40,
+        "id": "pg46",
+        "name": "pg46"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 20,
+        "id": "oelt28",
+        "name": "oelt28"
+      },
+      {
+        "type": "college",
+        "idx": 7,
+        "id": "col4",
+        "name": "col4"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 521,
+        "id": "ps1468",
+        "name": "ps1468"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 41,
+        "id": "pg47",
+        "name": "pg47"
+      },
+      {
+        "type": "region",
+        "idx": 27,
+        "id": "re5",
+        "name": "re5"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "voyage",
+        "idx": 373,
+        "id": "ps1334",
+        "name": "ps1334"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 290,
+        "id": "oe362",
+        "name": "oe362"
+      }
+    ],
+    "num_valid_crew": 9
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 175,
+        "id": "ps1156",
+        "name": "ps1156"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 290,
+        "id": "oe362",
+        "name": "oe362"
+      },
+      {
+        "type": "region",
+        "idx": 26,
+        "id": "re4",
+        "name": "re4"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 789,
+        "id": "ps1709",
+        "name": "ps1709"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 17,
+        "id": "oe115",
+        "name": "oe115"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 9,
+        "id": "pg18",
+        "name": "pg18"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "region",
+        "idx": 30,
+        "id": "re8",
+        "name": "re8"
+      },
+      {
+        "type": "college",
+        "idx": 10,
+        "id": "col7",
+        "name": "col7"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 18,
+        "id": "ps1014",
+        "name": "ps1014"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 1,
+        "id": "t10",
+        "name": "t10"
+      },
+      {
+        "type": "college",
+        "idx": 9,
+        "id": "col6",
+        "name": "col6"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "voyage",
+        "idx": 1410,
+        "id": "ps565",
+        "name": "ps565"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 237,
+        "id": "oe313",
+        "name": "oe313"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 5,
+        "id": "pos14",
+        "name": "值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 339,
+        "id": "oe406",
+        "name": "oe406"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 3,
+        "id": "pos12",
+        "name": "三管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 1203,
+        "id": "ps379",
+        "name": "ps379"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 447,
+        "id": "oe9",
+        "name": "oe9"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 33,
+        "id": "pg4",
+        "name": "pg4"
+      }
+    ],
+    "num_valid_crew": 22
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1311,
+        "id": "ps476",
+        "name": "ps476"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 251,
+        "id": "oe327",
+        "name": "oe327"
+      },
+      {
+        "type": "region",
+        "idx": 13,
+        "id": "re21",
+        "name": "re21"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 422,
+        "id": "oe64",
+        "name": "oe64"
+      },
+      {
+        "type": "region",
+        "idx": 26,
+        "id": "re4",
+        "name": "re4"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 777,
+        "id": "ps1699",
+        "name": "ps1699"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "college",
+        "idx": 9,
+        "id": "col6",
+        "name": "col6"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 1298,
+        "id": "ps464",
+        "name": "ps464"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 30,
+        "id": "pg37",
+        "name": "pg37"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 25,
+        "id": "oe122",
+        "name": "oe122"
+      },
+      {
+        "type": "college",
+        "idx": 7,
+        "id": "col4",
+        "name": "col4"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 36,
+        "id": "oelt7",
+        "name": "oelt7"
+      },
+      {
+        "type": "region",
+        "idx": 30,
+        "id": "re8",
+        "name": "re8"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1334,
+        "id": "ps497",
+        "name": "ps497"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 6,
+        "id": "t4",
+        "name": "t4"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      }
+    ],
+    "num_valid_crew": 28
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 215,
+        "id": "ps1192",
+        "name": "ps1192"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 367,
+        "id": "oe431",
+        "name": "oe431"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 59,
+        "id": "pg9",
+        "name": "pg9"
+      },
+      {
+        "type": "region",
+        "idx": 25,
+        "id": "re32",
+        "name": "re32"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "voyage",
+        "idx": 231,
+        "id": "ps1206",
+        "name": "ps1206"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 0,
+        "id": "t1",
+        "name": "t1"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 8,
+        "id": "pg17",
+        "name": "pg17"
+      }
+    ],
+    "num_valid_crew": 11
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 11,
+        "id": "pos7",
+        "name": "二管轮"
+      },
+      {
+        "type": "engine",
+        "idx": 0,
+        "id": "en1",
+        "name": "en1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 33,
+        "id": "pg4",
+        "name": "pg4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 229,
+        "id": "oe306",
+        "name": "oe306"
+      }
+    ],
+    "num_valid_crew": 27
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 342,
+        "id": "oe409",
+        "name": "oe409"
+      },
+      {
+        "type": "region",
+        "idx": 14,
+        "id": "re22",
+        "name": "re22"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 647,
+        "id": "ps1581",
+        "name": "ps1581"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 35,
+        "id": "pg41",
+        "name": "pg41"
+      }
+    ],
+    "num_valid_crew": 12
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "voyage",
+        "idx": 534,
+        "id": "ps148",
+        "name": "ps148"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 1,
+        "id": "t10",
+        "name": "t10"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 33,
+        "id": "pg4",
+        "name": "pg4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 286,
+        "id": "oe359",
+        "name": "oe359"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1164,
+        "id": "ps343",
+        "name": "ps343"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 33,
+        "id": "pg4",
+        "name": "pg4"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 15,
+        "id": "oelt23",
+        "name": "oelt23"
+      },
+      {
+        "type": "region",
+        "idx": 6,
+        "id": "re15",
+        "name": "re15"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 845,
+        "id": "ps176",
+        "name": "ps176"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 4,
+        "id": "pg13",
+        "name": "pg13"
+      },
+      {
+        "type": "region",
+        "idx": 15,
+        "id": "re23",
+        "name": "re23"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 41,
+        "id": "pg47",
+        "name": "pg47"
+      },
+      {
+        "type": "region",
+        "idx": 29,
+        "id": "re7",
+        "name": "re7"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "region",
+        "idx": 28,
+        "id": "re6",
+        "name": "re6"
+      }
+    ],
+    "num_valid_crew": 8
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 5,
+        "id": "pos14",
+        "name": "值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 11,
+        "id": "t9",
+        "name": "t9"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "region",
+        "idx": 26,
+        "id": "re4",
+        "name": "re4"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 11,
+        "id": "pos7",
+        "name": "二管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 736,
+        "id": "ps1661",
+        "name": "ps1661"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 26,
+        "id": "pg33",
+        "name": "pg33"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 44,
+        "id": "oe14",
+        "name": "oe14"
+      }
+    ],
+    "num_valid_crew": 11
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1644,
+        "id": "ps776",
+        "name": "ps776"
+      },
+      {
+        "type": "engine",
+        "idx": 295,
+        "id": "en369",
+        "name": "en369"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 383,
+        "id": "oe446",
+        "name": "oe446"
+      },
+      {
+        "type": "region",
+        "idx": 15,
+        "id": "re23",
+        "name": "re23"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 3,
+        "id": "t12",
+        "name": "t12"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 206,
+        "id": "oe286",
+        "name": "oe286"
+      },
+      {
+        "type": "region",
+        "idx": 14,
+        "id": "re22",
+        "name": "re22"
+      }
+    ],
+    "num_valid_crew": 2
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 156,
+        "id": "ps1139",
+        "name": "ps1139"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 12,
+        "id": "pg20",
+        "name": "pg20"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 282,
+        "id": "oe355",
+        "name": "oe355"
+      },
+      {
+        "type": "region",
+        "idx": 4,
+        "id": "re13",
+        "name": "re13"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 466,
+        "id": "ps1418",
+        "name": "ps1418"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 20,
+        "id": "oe118",
+        "name": "oe118"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 46,
+        "id": "pg51",
+        "name": "pg51"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 12,
+        "id": "pos8",
+        "name": "高级值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 828,
+        "id": "ps1744",
+        "name": "ps1744"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 21,
+        "id": "pg29",
+        "name": "pg29"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 11,
+        "id": "oelt2",
+        "name": "oelt2"
+      },
+      {
+        "type": "region",
+        "idx": 16,
+        "id": "re24",
+        "name": "re24"
+      },
+      {
+        "type": "college",
+        "idx": 8,
+        "id": "col5",
+        "name": "col5"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "voyage",
+        "idx": 626,
+        "id": "ps1562",
+        "name": "ps1562"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 3,
+        "id": "t12",
+        "name": "t12"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 2,
+        "id": "tt5",
+        "name": "tt5"
+      }
+    ],
+    "num_valid_crew": 23
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 2,
+        "id": "t11",
+        "name": "t11"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 35,
+        "id": "pg41",
+        "name": "pg41"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 10,
+        "id": "oelt19",
+        "name": "oelt19"
+      }
+    ],
+    "num_valid_crew": 18
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 11,
+        "id": "t9",
+        "name": "t9"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "region",
+        "idx": 19,
+        "id": "re27",
+        "name": "re27"
+      },
+      {
+        "type": "college",
+        "idx": 3,
+        "id": "col12",
+        "name": "col12"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 1308,
+        "id": "ps473",
+        "name": "ps473"
+      },
+      {
+        "type": "engine_type",
+        "idx": 2,
+        "id": "ent3",
+        "name": "ent3"
+      },
+      {
+        "type": "college",
+        "idx": 3,
+        "id": "col12",
+        "name": "col12"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1792,
+        "id": "ps909",
+        "name": "ps909"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "region",
+        "idx": 7,
+        "id": "re16",
+        "name": "re16"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 328,
+        "id": "ps1294",
+        "name": "ps1294"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 45,
+        "id": "pg50",
+        "name": "pg50"
+      },
+      {
+        "type": "college",
+        "idx": 3,
+        "id": "col12",
+        "name": "col12"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 5,
+        "id": "pos14",
+        "name": "值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 2,
+        "id": "t11",
+        "name": "t11"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 0,
+        "id": "pg1",
+        "name": "pg1"
+      },
+      {
+        "type": "college",
+        "idx": 3,
+        "id": "col12",
+        "name": "col12"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 489,
+        "id": "ps1439",
+        "name": "ps1439"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 39,
+        "id": "pg45",
+        "name": "pg45"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 406,
+        "id": "oe5",
+        "name": "oe5"
+      },
+      {
+        "type": "college",
+        "idx": 8,
+        "id": "col5",
+        "name": "col5"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1763,
+        "id": "ps883",
+        "name": "ps883"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      }
+    ],
+    "num_valid_crew": 17
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 10,
+        "id": "t8",
+        "name": "t8"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "region",
+        "idx": 0,
+        "id": "re1",
+        "name": "re1"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "voyage",
+        "idx": 764,
+        "id": "ps1687",
+        "name": "ps1687"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 0,
+        "id": "oe1",
+        "name": "oe1"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 905,
+        "id": "ps1813",
+        "name": "ps1813"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 0,
+        "id": "t1",
+        "name": "t1"
+      },
+      {
+        "type": "college",
+        "idx": 7,
+        "id": "col4",
+        "name": "col4"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "voyage",
+        "idx": 797,
+        "id": "ps1716",
+        "name": "ps1716"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 1,
+        "id": "tt4",
+        "name": "tt4"
+      },
+      {
+        "type": "college",
+        "idx": 10,
+        "id": "col7",
+        "name": "col7"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 849,
+        "id": "ps1763",
+        "name": "ps1763"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 24,
+        "id": "oelt31",
+        "name": "oelt31"
+      }
+    ],
+    "num_valid_crew": 9
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 9,
+        "id": "pos5",
+        "name": "电子技工"
+      },
+      {
+        "type": "voyage",
+        "idx": 1722,
+        "id": "ps846",
+        "name": "ps846"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 28,
+        "id": "pg35",
+        "name": "pg35"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 91,
+        "id": "oe182",
+        "name": "oe182"
+      }
+    ],
+    "num_valid_crew": 16
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 6,
+        "id": "pos2",
+        "name": "大副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1851,
+        "id": "ps962",
+        "name": "ps962"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 11,
+        "id": "t9",
+        "name": "t9"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 2,
+        "id": "tt5",
+        "name": "tt5"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 17,
+        "id": "oelt25",
+        "name": "oelt25"
+      }
+    ],
+    "num_valid_crew": 33
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 307,
+        "id": "ps1275",
+        "name": "ps1275"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 48,
+        "id": "pg53",
+        "name": "pg53"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 342,
+        "id": "oe409",
+        "name": "oe409"
+      },
+      {
+        "type": "region",
+        "idx": 28,
+        "id": "re6",
+        "name": "re6"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 11,
+        "id": "pos7",
+        "name": "二管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 200,
+        "id": "ps1179",
+        "name": "ps1179"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 439,
+        "id": "oe80",
+        "name": "oe80"
+      }
+    ],
+    "num_valid_crew": 13
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 8,
+        "id": "pos4",
+        "name": "电子电气员"
+      },
+      {
+        "type": "engine_type",
+        "idx": 1,
+        "id": "ent2",
+        "name": "ent2"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 25,
+        "id": "pg32",
+        "name": "pg32"
+      },
+      {
+        "type": "region",
+        "idx": 12,
+        "id": "re20",
+        "name": "re20"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 5,
+        "id": "pos14",
+        "name": "值班水手"
+      },
+      {
+        "type": "voyage",
+        "idx": 1588,
+        "id": "ps725",
+        "name": "ps725"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 12,
+        "id": "pos8",
+        "name": "高级值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 188,
+        "id": "ps1168",
+        "name": "ps1168"
+      },
+      {
+        "type": "engine_type",
+        "idx": 4,
+        "id": "ent5",
+        "name": "ent5"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 6,
+        "id": "pg15",
+        "name": "pg15"
+      }
+    ],
+    "num_valid_crew": 5
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "region",
+        "idx": 17,
+        "id": "re25",
+        "name": "re25"
+      },
+      {
+        "type": "college",
+        "idx": 3,
+        "id": "col12",
+        "name": "col12"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 5,
+        "id": "pos14",
+        "name": "值班水手"
+      },
+      {
+        "type": "voyage",
+        "idx": 373,
+        "id": "ps1334",
+        "name": "ps1334"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 0,
+        "id": "pos1",
+        "name": "船长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1853,
+        "id": "ps964",
+        "name": "ps964"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 16,
+        "id": "pg24",
+        "name": "pg24"
+      },
+      {
+        "type": "region",
+        "idx": 26,
+        "id": "re4",
+        "name": "re4"
+      },
+      {
+        "type": "college",
+        "idx": 11,
+        "id": "col8",
+        "name": "col8"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 10,
+        "id": "pos6",
+        "name": "二副"
+      },
+      {
+        "type": "voyage",
+        "idx": 854,
+        "id": "ps1768",
+        "name": "ps1768"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 10,
+        "id": "t8",
+        "name": "t8"
+      },
+      {
+        "type": "other_equip_type",
+        "idx": 8,
+        "id": "oelt17",
+        "name": "oelt17"
+      }
+    ],
+    "num_valid_crew": 17
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 2,
+        "id": "pos11",
+        "name": "三副"
+      },
+      {
+        "type": "voyage",
+        "idx": 1067,
+        "id": "ps256",
+        "name": "ps256"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 5,
+        "id": "t3",
+        "name": "t3"
+      },
+      {
+        "type": "tonnage_type",
+        "idx": 0,
+        "id": "tt3",
+        "name": "tt3"
+      }
+    ],
+    "num_valid_crew": 27
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 11,
+        "id": "pos7",
+        "name": "二管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 810,
+        "id": "ps1728",
+        "name": "ps1728"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 19,
+        "id": "pg27",
+        "name": "pg27"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 396,
+        "id": "oe458",
+        "name": "oe458"
+      }
+    ],
+    "num_valid_crew": 6
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 12,
+        "id": "pos8",
+        "name": "高级值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 1390,
+        "id": "ps547",
+        "name": "ps547"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "region",
+        "idx": 6,
+        "id": "re15",
+        "name": "re15"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 13,
+        "id": "pos9",
+        "name": "高级值班水手"
+      },
+      {
+        "type": "voyage",
+        "idx": 842,
+        "id": "ps1757",
+        "name": "ps1757"
+      },
+      {
+        "type": "vessel_type",
+        "idx": 9,
+        "id": "t7",
+        "name": "t7"
+      },
+      {
+        "type": "college",
+        "idx": 2,
+        "id": "col11",
+        "name": "col11"
+      }
+    ],
+    "num_valid_crew": 3
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 104,
+        "id": "ps1092",
+        "name": "ps1092"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "region",
+        "idx": 2,
+        "id": "re11",
+        "name": "re11"
+      },
+      {
+        "type": "college",
+        "idx": 12,
+        "id": "col9",
+        "name": "col9"
+      }
+    ],
+    "num_valid_crew": 1
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 1,
+        "id": "pos10",
+        "name": "轮机长"
+      },
+      {
+        "type": "voyage",
+        "idx": 1026,
+        "id": "ps219",
+        "name": "ps219"
+      },
+      {
+        "type": "engine_type",
+        "idx": 3,
+        "id": "ent4",
+        "name": "ent4"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 47,
+        "id": "pg52",
+        "name": "pg52"
+      },
+      {
+        "type": "other_equipment",
+        "idx": 77,
+        "id": "oe17",
+        "name": "oe17"
+      }
+    ],
+    "num_valid_crew": 14
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 4,
+        "id": "pos13",
+        "name": "值班机工"
+      },
+      {
+        "type": "voyage",
+        "idx": 433,
+        "id": "ps1389",
+        "name": "ps1389"
+      },
+      {
+        "type": "engine_type",
+        "idx": 0,
+        "id": "ent1",
+        "name": "ent1"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 6,
+        "id": "pg15",
+        "name": "pg15"
+      }
+    ],
+    "num_valid_crew": 4
+  },
+  {
+    "fields": [
+      {
+        "type": "cert",
+        "idx": 7,
+        "id": "pos3",
+        "name": "大管轮"
+      },
+      {
+        "type": "voyage",
+        "idx": 1151,
+        "id": "ps331",
+        "name": "ps331"
+      },
+      {
+        "type": "engine_type",
+        "idx": 1,
+        "id": "ent2",
+        "name": "ent2"
+      },
+      {
+        "type": "auxiliary_equipment",
+        "idx": 35,
+        "id": "pg41",
+        "name": "pg41"
+      }
+    ],
+    "num_valid_crew": 16
+  }
+]
